@@ -1,0 +1,16 @@
+﻿  main.cpp
+m:\pobrane\studia\sfml\sfml\sfml\mob.h(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+m:\pobrane\studia\sfml\sfml\sfml\mob.h(36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+m:\pobrane\studia\sfml\sfml\sfml\gracz.h(30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+m:\pobrane\studia\sfml\sfml\sfml\main.cpp(57): warning C4566: character represented by universal-character-name '\u00B3' cannot be represented in the current code page (1250)
+m:\pobrane\studia\sfml\sfml\sfml\main.cpp(76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+m:\pobrane\studia\sfml\sfml\sfml\main.cpp(79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+m:\pobrane\studia\sfml\sfml\sfml\main.cpp(119): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+m:\pobrane\studia\sfml\sfml\sfml\main.cpp(460): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+m:\pobrane\studia\sfml\sfml\sfml\main.cpp(464): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+m:\pobrane\studia\sfml\sfml\sfml\main.cpp(486): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  key.cpp
+  drzwi.cpp
+  Generating Code...
+  SFML.vcxproj -> M:\pobrane\Studia\SFML\SFML\x64\Debug\SFML.exe
+  SFML.vcxproj -> M:\pobrane\Studia\SFML\SFML\x64\Debug\SFML.pdb (Partial PDB)
