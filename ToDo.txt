@@ -1,0 +1,9 @@
+Suspended.
+
+To do list:
+  - singletons instead static vectors
+  - online version
+  - maze generator
+  - simple AI
+  
+# Projekt do przepisania, za duży syf wewnątrz i wiele wiele badziewie i niepotrzebnych rzeczy.
