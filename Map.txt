@@ -1,0 +1,11 @@
+teren.png
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x 0,1 1,1 x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
